@@ -4,8 +4,18 @@ namespace MethodsExerciseConsole2
 {
     class Program
     {
-        
-        public static void thebody()
+        public static int Addition(int num1, int num2)
+        {
+            //just perform Addition here; return answer to called method at lines 54 & 56
+            return num1 + num2;
+        }
+
+        public static int Multiply(int num1, int num2) 
+        {
+            return num1 * num2;
+        }
+
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello, What is you name?");
 
@@ -30,11 +40,9 @@ namespace MethodsExerciseConsole2
             var food = Console.ReadLine();
 
             Console.WriteLine($"I love {food}! {name}, I need to go. Thanks for talking. Have a great day.");
-        }
-        public static int Addition(int num1, int num2)
-        {
-            return num1 + num2;
 
+
+            //Calling Addition Method
             int anwser1 = Addition(2, 4);
 
             int anwser2 = Addition(1, 3);
@@ -42,30 +50,29 @@ namespace MethodsExerciseConsole2
             Console.WriteLine($"Did you know that 2 + 4 = {anwser1}?");
 
             Console.WriteLine($"And that 3 + 1 = {anwser2}?");
-        }
 
-        public static int Multiply(int num1, int num2) 
-        {
-            
-            return num1 * num2;
-
+            //Calling Multipy Method
             Console.WriteLine($"Hey, do you know what 10 * 2 =?");
 
             int anwser3 = Multiply(10, 2);
 
-            var anwser = Console.ReadLine();
-
             Console.WriteLine($"The anwser is {anwser3}");
-        }
-        static void Main(string[] args)
-        {
 
-            thebody();
-                               
-                      
-                      
+            //Moved Console.ReadLine here:
+            //Console.WriteLines to ask user for number input
+            Console.WriteLine("What is the 1st number you'd like to multiply?");
 
-           
+            //Console.ReadLine gets strings from user. int.Parse converts string to an int so Multiply method can solve
+            var factor1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("What's the 2nd number?");
+
+            var factor2 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"{factor1} * {factor2} = ");
+
+            Console.WriteLine(Multiply(factor1, factor2));
+
         }
     }
 }
