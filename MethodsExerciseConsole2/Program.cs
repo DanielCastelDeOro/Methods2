@@ -13,6 +13,9 @@ namespace MethodsExerciseConsole2
 
         public static int Multiply(int num1, int num2) 
         {
+            //Also, if you have more code in your method, returns have to go at the very end in order to
+            //return the information that was handled by your method's code. Think of it like your code
+            //has to execute before it can return the answer that it generated
             return num1 * num2;
         }
 

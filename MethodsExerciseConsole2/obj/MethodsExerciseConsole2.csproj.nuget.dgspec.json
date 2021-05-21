@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj": {}
+    "/Users/truecoders/Documents/StudentRepos/DanielCastel/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj": {}
   },
   "projects": {
-    "/Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj": {
+    "/Users/truecoders/Documents/StudentRepos/DanielCastel/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj",
+        "projectUniqueName": "/Users/truecoders/Documents/StudentRepos/DanielCastel/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj",
         "projectName": "MethodsExerciseConsole2",
-        "projectPath": "/Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj",
+        "projectPath": "/Users/truecoders/Documents/StudentRepos/DanielCastel/Methods2/MethodsExerciseConsole2/MethodsExerciseConsole2.csproj",
         "packagesPath": "/Users/truecoders/.nuget/packages/",
-        "outputPath": "/Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/obj/",
+        "outputPath": "/Users/truecoders/Documents/StudentRepos/DanielCastel/Methods2/MethodsExerciseConsole2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/truecoders/.config/NuGet/NuGet.Config"
