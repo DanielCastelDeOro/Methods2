@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Owner\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Owner\\.nuget\\packages"
+      "/Users/truecoders/.dotnet/store/|arch|/|tfm|",
+      "/Users/truecoders/.nuget/packages"
     ]
   }
 }
