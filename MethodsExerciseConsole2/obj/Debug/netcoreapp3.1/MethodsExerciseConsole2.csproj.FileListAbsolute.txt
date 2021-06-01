@@ -23,3 +23,16 @@ C:/Users/Owner/source/repos/MethodsExercise2/MethodsExerciseConsole2/obj/Debug/n
 /Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/obj/Debug/netcoreapp3.1/MethodsExerciseConsole2.dll
 /Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/obj/Debug/netcoreapp3.1/MethodsExerciseConsole2.pdb
 /Users/truecoders/Documents/Trepos/DanielMethod2/Methods2/MethodsExerciseConsole2/obj/Debug/netcoreapp3.1/MethodsExerciseConsole2.genruntimeconfig.cache
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\bin\Debug\netcoreapp3.1\MethodsExerciseConsole2.exe
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\bin\Debug\netcoreapp3.1\MethodsExerciseConsole2.deps.json
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\bin\Debug\netcoreapp3.1\MethodsExerciseConsole2.runtimeconfig.json
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\bin\Debug\netcoreapp3.1\MethodsExerciseConsole2.runtimeconfig.dev.json
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\bin\Debug\netcoreapp3.1\MethodsExerciseConsole2.dll
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\bin\Debug\netcoreapp3.1\MethodsExerciseConsole2.pdb
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\obj\Debug\netcoreapp3.1\MethodsExerciseConsole2.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\obj\Debug\netcoreapp3.1\MethodsExerciseConsole2.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\obj\Debug\netcoreapp3.1\MethodsExerciseConsole2.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\obj\Debug\netcoreapp3.1\MethodsExerciseConsole2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\obj\Debug\netcoreapp3.1\MethodsExerciseConsole2.dll
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\obj\Debug\netcoreapp3.1\MethodsExerciseConsole2.pdb
+C:\Users\danie\Source\Repos\Methods2\MethodsExerciseConsole2\obj\Debug\netcoreapp3.1\MethodsExerciseConsole2.genruntimeconfig.cache
